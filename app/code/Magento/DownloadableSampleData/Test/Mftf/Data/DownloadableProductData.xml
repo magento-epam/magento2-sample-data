@@ -44,7 +44,7 @@
         <data key="image">lt02.jpg</data>
     </entity>
     <entity name="AdvancedPilatesYogaStrength">
-        <data key="url_key">advanced-pilates-yoga-strength</data>
+        <data key="url_key">advanced-pilates-%26-yoga-%28strength%29</data>
         <data key="name">Advanced Pilates &amp; Yoga (Strength)</data>
         <data key="sku">240-LV08</data>
         <data key="price">$18.00</data>
