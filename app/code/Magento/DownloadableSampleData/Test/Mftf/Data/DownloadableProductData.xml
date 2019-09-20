@@ -30,7 +30,7 @@
         <data key="image">lt03.jpg</data>
     </entity>
     <entity name="BeginnersYoga">
-        <data key="url_key">beginner-s-yoga</data>
+        <data key="url_key">beginner%27s-yoga</data>
         <data key="name">Beginner's Yoga</data>
         <data key="sku">240-LV04</data>
         <data key="price">$6.00</data>
